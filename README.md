@@ -1,6 +1,6 @@
 # 📖 FractalForensics: Proactive Deepfake Detection and Localization via Fractal Watermarks
 
-Source code implementation of our paper accepted to Proceedings of the 33rd ACM International Conference on Multimedia (MM 2025).
+Source code implementation of our paper accepted to Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM 2025 Oral).
 
 ## 📢 Updates
 
